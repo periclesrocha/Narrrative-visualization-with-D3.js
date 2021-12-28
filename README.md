@@ -9,16 +9,14 @@ Demo: https://periclesrocha.github.io/2018.html
 Table of contents:
 
 1. [Introduction](#introduction)
-2. [How it works](#howitworks)
-3. [Messaging](#Messaging)
-4. [Narrative structure](#Narrative_structure)
-5. [Visual structure](#Visual_structure)
-6. [Scenes](#Scenes)
-7. [Annotations](#Annotations)
-8. [Parameters](#Parameters)
-9. [Triggers](#Triggers)
-10. [Conclusion](#Conclusion)
-11. [Appendix](#Appendix)
+2. [Messaging](#Messaging)
+3. [Narrative structure](#Narrative_structure)
+4. [Visual structure](#Visual_structure)
+5. [Scenes](#Scenes)
+6. [Annotations](#Annotations)
+7. [Parameters](#Parameters)
+8. [Triggers](#Triggers)
+9. [Conclusion](#Conclusion)
 
 ## Introduction <a name="introduction"></a>
 This project communicates to readers, using a visual narrative, the recent rise of house prices in Austin (Texas) and its metropolitan area. Austin is regarded as one of the hottest housing markets in America today and considered a thermometer to the rest of the country. For someone looking to buy or sell a house, the trends in Austin can help them understand if this is the right moment for such an important decision.
@@ -27,7 +25,7 @@ We’ll look at historical data compiled by researchers for a Kaggle article. Th
 The narrative visualization described in this document can be found on https://periclesrocha.github.io/index.html. 
 
 ## Messaging <a name="Messaging"></a>
-With the COVID-19 pandemic, workers are considering if they can continue working from home or if they’ll need to get back to their offices. While some companies have stated that they expect their employees to be back in the office [^1] , several others have gone the opposite way [^2] and shifted to flexible work terms. This had an undeniable impact on the housing market, as people learned that they could move to cheaper areas in the suburbs of capitals where they can afford better homes, farther away from their work. But is the COVID-19 pandemic really the driver behind the rise in home prices?
+With the COVID-19 pandemic, workers are considering if they can continue working from home or if they’ll need to get back to their offices. While some companies have stated that they expect their employees to be back in the office[^1], several others have gone the opposite way[^2] and shifted to flexible work terms. This had an undeniable impact on the housing market, as people learned that they could move to cheaper areas in the suburbs of capitals where they can afford better homes, farther away from their work. But is the COVID-19 pandemic really the driver behind the rise in home prices?
 
 The messaging I am trying to communicate through this narrative visualization is that house prices have been increasing in the past few years, regardless of the COVID-19 pandemic. By looking at the housing market in the Austin metropolitan area, we look at a trend in home prices and how some regions can be overly priced regardless of the average of other properties in the same region.
 
@@ -71,9 +69,6 @@ Some readers may find these triggers naturally as they explore the visualization
 This project summarizes all the learnings from the CS 416: Data Visualization course. It helps an individual tell a story represented in data using visual elements. The visualization implements best practices on how to chose visual elements (e.g.: which chart to use), how to offer a streamlined visualization to readers to allow them to easily consume the report, how to educate the reader on using the report, and mechanisms to build and share it. I enjoyed the opportunity to build this narrative visualization and revisited most chapters in the course to find effective ways to build it.
 
 The data used on this project is open to the public.
-
-## Appendix <a name="Appendix"></a>
-### References:
 
 [^1]:Why some companies want everyone back in the office - CNN https://www.cnn.com/2021/05/17/success/going-back-to-the-office/index.html 
 [^2]:Cisco shifts to hybrid workplace model, employees can opt to work permanently from home - The Hindu BusinessLine https://www.thehindubusinessline.com/companies/cisco-shifts-to-hybrid-workplace-model-employees-can-opt-to-work-permanently-from-home/article35633131.ece 
